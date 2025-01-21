@@ -1,5 +1,5 @@
 # GLESKit | [中文](./README_CN.md)
-An OpenGL ES 3.0 develop kit implemented in Swift 5.0.
+An OpenGL ES 3.0 develop kit implemented in Swift 5.0. Try to make OpenGL ES stuffs easy for noobs.
 
 
 # How to use.
